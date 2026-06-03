@@ -1,11 +1,21 @@
-question,answer
-How do I access Moodle?,Log into Moodle using your Concordia student credentials.
-How do I find my class schedule?,Check your weekly schedule through the Student Hub.
-How do I obtain my transcript?,Request an official transcript through Student Services.
-Where can I meet an academic advisor?,Contact your department advising office or Student Success Centre.
-How do I change my program?,Submit a program change request through your faculty.
-How do I get my student ID card?,Visit the Birks Student Service Centre with government-issued ID.
-How do I connect to campus Wi-Fi?,Use your Concordia username and password to connect to the secure network.
-Where can I find exam schedules?,Exam schedules are posted on the university website before the examination period.
-How do I drop a course?,Use the course registration system before the DNE deadline.
-How do I apply for graduation?,Submit a graduation application through your student portal.
+"question","answer"
+"How do I access Moodle?","Log into Moodle using your Concordia student credentials."
+"How do I find my class schedule?","Check your weekly schedule through the Student Hub."
+"How do I obtain my transcript?","Request an official transcript through Student Services."
+"Where can I meet an academic advisor?","Contact your department advising office or Student Success Centre."
+"How do I change my program?","Submit a program change request through your faculty."
+"How do I get my student ID card?","Visit the Birks Student Service Centre with government-issued ID."
+"How do I connect to campus Wi-Fi?","Use your Concordia username and password to connect to the secure network."
+"Where can I find exam schedules?","Exam schedules are posted on the university website before the examination period."
+"How do I drop a course?","Use the course registration system before the DNE deadline."
+"How do I apply for graduation?","Submit a graduation application through your student portal."
+"Does Concordia offer scholarships?","Yes, Concordia offers entrance scholarships, in-course awards, and bursaries based on merit and financial need."
+"What is Concordia’s grading system?","Concordia uses a letter grading system ranging from A+ to F, with GPA calculated on a 4.3 scale."
+"What support services does Concordia offer?","Services include academic advising, tutoring, mental health support, career services, and accessibility support."
+"Can I transfer credits to Concordia?","Yes, transfer credits may be granted depending on previous post-secondary coursework and program evaluation."
+"What is COEN 311?","COEN 311 is a software engineering course focusing on software design, development practices, and teamwork projects."
+"What is COEN 212 about?","COEN 212 typically covers digital systems design including logic gates, circuits, and hardware fundamentals."
+"What is COMP 249 about?","COMP 249 is a data structures and object-oriented programming course in Java."
+"What is COMP 348 about?","COMP 348 focuses on principles of programming languages and how different languages are designed and used."
+"Can I switch between COEN and CS?","Yes, switching is possible but requires meeting GPA and course prerequisites set by the faculty."
+"Is coding important in COEN?","Yes, COEN students code extensively, especially in C++ and embedded programming."
